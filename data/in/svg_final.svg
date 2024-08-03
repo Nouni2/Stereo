@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    version="1.1"
+    id=""
+    width="1000"
+    height="517"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <image
+        id="image"
+        width="1000"
+        height="517"
+        homography="1.0224394663181031,0.002027807648693508,-8.673908749830973,-0.0003318796825431108,1.0220308850596453,-8.329958732412175"
+        xlink:href="stereo_in50.jpg" 
+    />
+    <path
+        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit=4;stroke-dasharray:none;stroke-opacity:1"
+        id="lefteye"
+        d="M 81,463 L 79,106 L 79,106 L 85,79 L 85,79 L 95,62 L 95,62 L 108,50 L 108,50 L 132,39 L 132,39 L 157,34 L 157,34 L 195,28 L 195,28 L 227,25 L 227,25 L 261,26 L 261,26 L 308,21 L 308,21 L 334,24 L 334,24 L 367,30 L 367,30 L 406,30 L 406,30 L 424,33 L 424,33 L 444,41 L 444,41 L 468,53 L 468,53 L 483,62 L 483,62 L 489,74 L 489,74 L 497,94 L 497,94 L 498,111 L 498,111 L 499,459 L 499,459 L 81,465"
+    />
+    <path
+        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width=2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit=4;stroke-dasharray:none;stroke-opacity:1"
+        id="righteye"
+        d="M 517,64 L 529,54 L 529,54 L 542,46 L 542,46 L 559,41 L 559,41 L 580,37 L 580,37 L 597,32 L 597,32 L 618,28 L 618,28 L 650,31 L 650,31 L 671,25 L 671,25 L 701,27 L 701,27 L 745,25 L 745,25 L 773,25 L 773,25 L 805,24 L 805,24 L 820,26 L 820,26 L 842,31 L 842,31 L 852,33 L 852,33 L 868,39 L 868,39 L 883,45 L 883,45 L 893,51 L 893,51 L 903,58 L 903,58 L 912,68 L 912,68 L 921,98 L 921,98 L 922,113 L 922,113 L 920,126 L 920,126 L 923,457 L 923,457 L 506,463 L 506,463 L 502,100 L 502,100 L 505,86 L 505,86 L 509,77 L 509,77 L 519,60"
+    />
+</svg>
